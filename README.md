@@ -12,8 +12,8 @@
 ### Web
 #### Resources
 - [data scheme RFC](http://www.faqs.org/rfcs/rfc2397.html) `data:`
-- [@Font-face CSS](https://mksben.l0.cm/2015/10/css-based-attack-abusing-unicode-range.html)
-- [Interceping SSL](https://www.trustwave.com/Resources/SpiderLabs-Blog/Intercepting-SSL-And-HTTPS-Traffic-With-mitmproxy-and-SSLsplit/) `spoofing`
+- [@Font-face](https://mksben.l0.cm/2015/10/css-based-attack-abusing-unicode-range.html) `CSS Injection`, `@font-face`
+- [Interceping SSL](https://www.trustwave.com/Resources/SpiderLabs-Blog/Intercepting-SSL-And-HTTPS-Traffic-With-mitmproxy-and-SSLsplit/) `spoofing`, `certificate forge`
 - [LFI, PHP](https://rawsec.ml/en/local-file-inclusion-remote-code-execution-vulnerability/) `LFI`, `PHP`
 - [MySQL useful functions](https://dev.mysql.com/doc/refman/5.7/en/string-functions.html#function_substr) `MySQL`
 - [some SSRF](http://blog.safebuff.com/2016/07/03/SSRF-Tips/) `SSRF`
