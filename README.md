@@ -70,3 +70,4 @@
 - [Hackburger](https://hackburger.ee/challenge/) `Web`
 - [HackCERT](https://hack.cert.pl/) `all`
 - [CTFLearn](https://ctflearn.com/) `all`
+- [Wargame.kr](http://wargame.kr/) `Web`, `Crypto`
