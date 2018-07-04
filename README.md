@@ -17,7 +17,7 @@
 - [Interceping SSL](https://www.trustwave.com/Resources/SpiderLabs-Blog/Intercepting-SSL-And-HTTPS-Traffic-With-mitmproxy-and-SSLsplit/) `spoofing`, `certificate forge`
 - [LFI, PHP](https://rawsec.ml/en/local-file-inclusion-remote-code-execution-vulnerability/) `LFI`, `PHP`
 - [MySQL useful functions](https://dev.mysql.com/doc/refman/5.7/en/string-functions.html#function_substr) `MySQL`
-- [some SSRF](http://blog.safebuff.com/2016/07/03/SSRF-Tips/) `SSRF`
+- [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/) `SSRF`
 - [SSRF Bible](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit) `SSRF`
 - [more SRF - orange paper](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf) `SSRF`
 - [SQL Injection](https://websec.ca/kb/sql_injection) `Common SQL Injections`
@@ -25,7 +25,7 @@
 - [PHP loose comparison](http://www.decontextualize.com/wp-content/uploads/2010/01/php-loose-comparisons.png) 
 - [SQL Truncation Attack](https://totalwebsecurity.net/injection-attacks/sql-column-truncation/) `SQL`, `Truncation`
 - [XSS Gadgets](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf) `XSS`, `Gadgets`
-- [Advanced XSS](http://blog.rakeshmane.com/2017/08/xssing-web-part-2.html) `XSS`, `Conversions`
+- [Advanced XSS](http://blog.rakeshmane.com/2017/08/xssing-web-part-2.html) `XSS`, `Encodings`
 - [XSS Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20injection) `XSS`, `Payloads`
 - [Magic Hashes](https://www.whitehatsec.com/blog/magic-hashes/) `Hash Collisions`
 - [HTML5sec](https://html5sec.org/) `XSS`, `HTML5`, `Examples`, `Multi-platform`
