@@ -38,13 +38,21 @@
 
 
 
-#### Tools
+#### Web Tools
 - [Javascript Deobfuscator](https://www.javascriptdeobfuscator.com/) `JS Deobfuscator`
 - [cmd5.org](https://www.cmd5.org/) `MD5 cracker`
 - [base64 decoder](https://codebeautify.org/base64-decode) `B64 Decoder/Encoder`
 - [multi-type converter](https://cryptii.com/base64-to-hex) `ASCII`, `HEX`, `Base64`
 - [Webhook Tester](https://webhook.site) `HTTPS`, `Free Server`
 - [sqlmap](http://sqlmap.org/) `sqli`
+
+
+#### Local Tools
+- [dirsearch](https://github.com/maurosoria/dirsearch) 
+- [sqlmap](http://sqlmap.org/)
+- [GitTools](https://github.com/internetwache/GitTools)
+- [tplmap](https://github.com/epinna/tplmap)
+- [phpsearch](./Web/tools/phpsearch.py)
 
 
 <!-- //////////////////////////////////////////////////////////////////////////// -->
