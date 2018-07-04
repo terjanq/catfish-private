@@ -56,6 +56,8 @@
 
 
 <!-- //////////////////////////////////////////////////////////////////////////// -->
+___
+
 ### Pwn
 #### Resources
 - [Heap exploitation](https://heap-exploitation.dhavalkapil.com/) `heap`
@@ -67,6 +69,8 @@
 - [ROPgadget](https://github.com/JonathanSalwan/ROPgadget) `rop gadget finder`
 
 <!-- //////////////////////////////////////////////////////////////////////////// -->
+___
+
 ### Reverse Engineering
 
 #### Resources
@@ -79,6 +83,8 @@
 - [z3](https://github.com/Z3Prover/z3) `SAT/SMT solver`
 
 <!-- //////////////////////////////////////////////////////////////////////////// -->
+___
+
 ### Crypto
 
 #### Resources
@@ -92,6 +98,8 @@
 - [z3](https://github.com/Z3Prover/z3) `SAT/SMT solver`
 
 <!-- //////////////////////////////////////////////////////////////////////////// -->
+___
+
 ### Forensics/Stegano
 
 #### Resources
@@ -104,6 +112,8 @@
 - [binwalk](https://github.com/ReFirmLabs/binwalk) `finding files inside files`
 
 <!-- //////////////////////////////////////////////////////////////////////////// -->
+___
+
 ### General
 
 #### Resources
@@ -111,13 +121,18 @@
 - [more tools](https://github.com/SandySekharan/CTF-tool#web-1)
 - [LiveOverflow videos](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) `pwn` `re` `web`
 
-#### Tools
-- [pyrasite](https://github.com/lmacken/pyrasite) `code injection`
+#### Website Tools
 - [Cyber Chief](https://gchq.github.io/CyberChef/) 
 - [Regex Dictionary](https://visca.com/regexdict/) `regex`
 
+### Local Tools
+- [pyrasite](https://github.com/lmacken/pyrasite) `code injection`
 
 
+### Extensions
+- [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+- [Tampermonkey](http://tampermonkey.net/)
+- [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
 
 ## Websites to practice
