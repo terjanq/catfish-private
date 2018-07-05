@@ -11,6 +11,7 @@
 | --------- | ---- | 
 | [pwntools](http://docs.pwntools.com/en/stable/) | `general framework` |
 | [ROPgadget](https://github.com/JonathanSalwan/ROPgadget) | `rop gadget finder` |
-| radare2 | |
-| IDA | |
-| gdb-peda | |
+| [pwndbg](https://github.com/pwndbg/pwndbg) | `GDB plugin` |
+| [gdb-peda](https://github.com/longld/peda) | `GDB plugin` |
+| [radare2](https://github.com/radare/radare2) | `disassembler` `debugger` |
+| IDA | `disassembler` `debugger` `decompiler` |
