@@ -7,7 +7,7 @@
 |1. |[@terjanq](http://github.com/terjanq)| 0 |
 |2. |@Ace  | 0 |
 |3. |@stawrocek | 0 |
-|4. |@mze | 0 |
+|4. |[@mzr](http://github.com/dingorth) | 0 |
 |5. |@ememak | 0 |
 |6. |@janusz | 0 |
 |7. |@staffik | 0 |
