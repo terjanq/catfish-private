@@ -26,9 +26,9 @@
 | [Hackburger](https://hackburger.ee/challenge/) | `Web`
 | [HackCERT](https://hack.cert.pl/) | `all`
 | [CTFLearn](https://ctflearn.com/) | `all`
-| [Wargame.kr](http://wargame.kr/) | `Web`, `Crypto`
+| [Wargame.kr](http://wargame.kr/) | `Web` `Crypto` 
 | [picoCTF](https://picoctf.com/) | `all`
-| [komodosec](http://ctf.komodosec.com) | `Web`, `SQL Injection` |
+| [komodosec](http://ctf.komodosec.com) | `Web` `SQL Injection` |
 
 ### Resources
 1. [Web](./Web/README.md)
