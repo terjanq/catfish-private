@@ -11,6 +11,7 @@
 | [pwndbg](https://github.com/pwndbg/pwndbg) | `GDB plugin` |
 | [Unicorn Engine](https://github.com/unicorn-engine/unicorn) | `emulator` |
 | [z3](https://github.com/Z3Prover/z3) | `SAT/SMT solver` |
+| radare2 | |
 
 ### Web Tools
 | Tool Name | Tags |

@@ -11,3 +11,6 @@
 | --------- | ---- | 
 | [pwntools](http://docs.pwntools.com/en/stable/) | `general framework` |
 | [ROPgadget](https://github.com/JonathanSalwan/ROPgadget) | `rop gadget finder` |
+| radare2 | |
+| IDA | |
+| gdb-peda | |
