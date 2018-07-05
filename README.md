@@ -1,7 +1,7 @@
 # Very private CTF repository
 
 
-## Members | Flag counter
+## Members 
 |No | Member | Captured
 |--:|:------:|:--------------|
 |1. |[@terjanq](http://github.com/terjanq)| 0 |
@@ -34,6 +34,7 @@
 | [CTFLearn](https://ctflearn.com/) | `all`
 | [Wargame.kr](http://wargame.kr/) | `Web`, `Crypto`
 | [picoCTF](https://picoctf.com/) | `all`
+| [komodosec](http://ctf.komodosec.com) | `Web`, `SQL Injection` |
 
 ### Resources
 1. [Web](./WEB.md)
