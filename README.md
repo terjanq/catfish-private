@@ -17,12 +17,6 @@
 - [ ] Improve resources 
 
 
-### Useful Browser Extensions
-- [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) `Live MD preview`
-- [Tampermonkey](http://tampermonkey.net/) `Include JS Scripts`
-- [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) `Easy way to edit cookies`
-
-
 ### Where to practice?
 | Website | Categories |
 | ------- | ---------- |
@@ -37,9 +31,10 @@
 | [komodosec](http://ctf.komodosec.com) | `Web`, `SQL Injection` |
 
 ### Resources
-1. [Web](./WEB.md)
-2. [Crypto](./CRYPTO.md)
-3. [RE](./RE.md)
-4. [PWN](./PWN.md)
-5. [Misc](./MISC.md)
-6. [Stego/Fore](./STEGO.md)
+1. [Web](./Web/README.md)
+2. [Crypto](./Crypto/README.md)
+3. [RE](./Re/README.md)
+4. [PWN](./Pwn/README.md)
+5. [Misc](./Misc/README.md)
+6. [Stego/Fore](./Stego/README.md)
+7. [General](./General/README.md)
