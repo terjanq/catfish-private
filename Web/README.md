@@ -39,14 +39,15 @@
 | [multi-type converter](https://cryptii.com/base64-to-hex) | `ASCII` `HEX` `Base64` |
 | [Webhook Tester](https://webhook.site) | `HTTPS` `Free Server` |
 | [sqlmap](http://sqlmap.org/) | `sqli` |
+| [JSFuck](http://www.jsfuck.com/) | `JS` `No alpha-numeric` |
 
 
 ### Local Tools
 | Tool Name | Tags |
 | --------- | ---- | 
-| [dirsearch](https://github.com/maurosoria/dirsearch) | - |
-| [sqlmap](http://sqlmap.org/) | - |
-| [GitTools](https://github.com/internetwache/GitTools) | - |
-| [tplmap](https://github.com/epinna/tplmap) | - |
-| [phpsearch](./Web/tools/phpsearch.py) | - | 
-
+| [dirsearch](https://github.com/maurosoria/dirsearch) | `hidden files` |
+| [sqlmap](http://sqlmap.org/) | `SQL Injection` |
+| [GitTools](https://github.com/internetwache/GitTools) | `Git` `Dumper` `Extractor` `Finder` |
+| [tplmap](https://github.com/epinna/tplmap) | `Template Injection` |
+| [phpsearch](./Web/tools/phpsearch.py) | `PHP` `backup files` | 
+| [PhpNoAlnum](https://github.com/tsug0d/PhpNoAlnum) | `PHP` `No alpha-numeric` |
