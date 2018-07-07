@@ -19,7 +19,7 @@
 | [XSS Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20injection) | `XSS` `Payloads` |
 | [Magic Hashes](https://www.whitehatsec.com/blog/magic-hashes/) | `Hash Collisions` |
 | [HTML5sec](https://html5sec.org/) | `XSS` `HTML5` `Examples` `Multi-platform` |
-
+| [PHP LFI cheatsheet](https://github.com/lucyoa/ctf-wiki/tree/master/web/file-inclusion) | `PHP` `php://` `data://` `wrappers` `RCE` `LFI` |
 
 
 ### Writeups
@@ -51,3 +51,11 @@
 | [tplmap](https://github.com/epinna/tplmap) | `Template Injection` |
 | [phpsearch](./Web/tools/phpsearch.py) | `PHP` `backup files` | 
 | [PhpNoAlnum](https://github.com/tsug0d/PhpNoAlnum) | `PHP` `No alpha-numeric` |
+
+
+### Mixed Content
+| Desc | Tags |
+|---| ---- |
+| [ctf-wiki](../General/ctf-wiki) | `Web`, `LFI`, `RCE`, `SQLi`, `XXE`, `and more`, `Crypto`, `Pwn` |
+
+
