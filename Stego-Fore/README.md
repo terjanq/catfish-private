@@ -16,7 +16,8 @@
 | sonic visualizer | `audio` |
 | exiftool | `metadata` |
 | pngcheck | `image`, `png` |
-| [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) | `pcap` |
+| [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) | `pcap`|
+| [steganabra.jar](http://www.wechall.net/downloads) | `LSB` `image` | 
 
 ### Other:
 * [steganography-101 cheatsheet](https://pequalsnp-team.github.io/cheatsheet/steganography-101)

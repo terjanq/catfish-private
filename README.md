@@ -34,6 +34,8 @@
 | [Wargame.kr](http://wargame.kr/) | `Web` `Crypto` 
 | [picoCTF](https://picoctf.com/) | `all`
 | [komodosec](http://ctf.komodosec.com) | `Web` `SQL Injection` |
+| [root-me.org](https://www.root-me.org/?lang=en) | `all` `re` `pwn`|
+| [wechall.net](http://www.wechall.net) | `all` `collection_of_resources`|
 
 
 ### Resources
