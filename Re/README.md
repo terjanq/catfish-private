@@ -32,6 +32,6 @@
 ### Articles
 | Desc | Tags |
 | -------| ---|
-|[Linux-re-101](https://github.com/michalmalik/linux-re-101)| `bible` `collection_of_resources ` `linux` `re`|
-|[Windows anti debug reference](https://www.symantec.com/connect/articles/windows-anti-debug-reference)| `re` `windows` |`debugging`
+|[Linux-re-101](https://github.com/michalmalik/linux-re-101) | `bible` `collection_of_resources ` `linux` `re`|
+|[Windows anti debug reference](https://www.symantec.com/connect/articles/windows-anti-debug-reference) | `re` `windows` `debugging` |
  
