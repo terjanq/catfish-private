@@ -22,3 +22,4 @@
     * [Python module for both above](https://github.com/mwielgoszewski/python-paddingoracle)
 
 * [Hash length extension](https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks)
+* [Small modulus](https://en.wikipedia.org/wiki/Coppersmith%27s_attack#Franklin-Reiter_related-message_attack)
