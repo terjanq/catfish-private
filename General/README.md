@@ -24,3 +24,10 @@
 | [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) | `Live MD preview` |
 | [Tampermonkey](http://tampermonkey.net/) | `Include JS Scripts` |
 | [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) | `Easy way to edit cookies` |
+
+### CTF Infrastructure
+| Desc | Tags |
+| ------------| -----|
+| [Techniczne aspekty organizacji zawodów i ćwiczeń CTF](https://www.cert.pl/news/single/techniczne-aspekty-organizacji-zawodow-i-cwiczen-ctf/) | `docker` `nsjail` `icinga2` |
+
+
